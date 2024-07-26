@@ -1,0 +1,12 @@
+set t_Co=256
+syntax enable
+set encoding=utf-8
+set softtabstop=4
+set shiftwidth=4
+set textwidth=79
+set expandtab
+set number
+set autoindent
+set showmatch
+set backspace=indent,eol,start
+set clipboard=unnamed
